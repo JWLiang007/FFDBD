@@ -11,7 +11,7 @@ __pycache__
 nohup.out
 
 /output
-/data
+# /data
 run.sh
 src/utils/library/
 weights
